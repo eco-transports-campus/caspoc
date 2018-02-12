@@ -1,0 +1,14 @@
+{
+    "name": "cas",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+    	"body-parser": "~1.18.2",
+    	"connect-cas2" : "~1.2.5",
+    	"cookie-parser": "~1.4.3",
+        "express": "~4.15.2",
+        "express-session" : "~1.15.6",
+        "nodejs-cas": "~1.0.12 ",
+        "session-memory-store" : "~0.2.2"
+    }
+}
